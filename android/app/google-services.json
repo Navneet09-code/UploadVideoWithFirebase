@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "82428532532",
+    "project_id": "streamin-video-app",
+    "storage_bucket": "streamin-video-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:82428532532:android:43e762949999136f4b3761",
+        "android_client_info": {
+          "package_name": "com.example.streamingvideoapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCOrYtbq03FMy3jDnro1SMzylg-mpuneLM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
